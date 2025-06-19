@@ -85,7 +85,7 @@ streamlit run app.py
 
 ---
 
-## 📷 Sc
+
 
 ---
 
