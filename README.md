@@ -1,4 +1,4 @@
-# 📊 Smart CSV Dashboard & ML Insight Generator
+#  Smart CSV Dashboard & ML Insight Generator
 
 A lightweight and interactive Streamlit-based app to:
 
@@ -10,21 +10,21 @@ A lightweight and interactive Streamlit-based app to:
 
 ---
 
-## 🚀 Features
+##  Features
 
 | Feature           | Description                                           |
 | ----------------- | ----------------------------------------------------- |
-| 📁 Upload CSV     | Upload raw datasets                                   |
-| 🧼 Auto Cleaning  | Automatically fill missing values and drop duplicates |
-| 🛠️ User Cleaning | Choose custom strategies for specific columns         |
-| 📊 Visualizations | Create bar, line, and scatter plots using Plotly      |
-| 📋 Stats Summary  | View missing values, column types, and distributions  |
-| 🤖 ML Modeling    | Predict selected target column using Random Forest    |
-| 📥 CSV Export     | Download cleaned data or prediction results           |
+|  Upload CSV     | Upload raw datasets                                   |
+|  Auto Cleaning  | Automatically fill missing values and drop duplicates |
+|  User Cleaning | Choose custom strategies for specific columns         |
+|  Visualizations | Create bar, line, and scatter plots using Plotly      |
+|  Stats Summary  | View missing values, column types, and distributions  |
+|  ML Modeling    | Predict selected target column using Random Forest    |
+|  CSV Export     | Download cleaned data or prediction results           |
 
 ---
 
-## 🧱 Folder Structure
+##  Folder Structure
 
 ```
 csv-dashboard-app/
@@ -73,7 +73,7 @@ streamlit run app.py
 
 ---
 
-## 📌 Usage Instructions
+##  Usage Instructions
 
 1. Upload a CSV file.
 2. Wait for it to be auto-cleaned.
@@ -89,7 +89,7 @@ streamlit run app.py
 
 ---
 
-## 🌐 Deployment
+##  Deployment
 
 You can deploy this app publicly using:
 
@@ -99,13 +99,9 @@ You can deploy this app publicly using:
 
 ---
 
-## 📄 License
 
-MIT License — feel free to use, modify, and share.
-
----
 
 ## 👨‍💻 Author
 
-Built with 💡 by **Kowsik Alluri**
+Built  by **Kowsik Alluri**
 Contact: [LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/kowsikalluri)
